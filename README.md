@@ -1,3 +1,4 @@
+visit IOTSHARING.COM for more
 # esp32-sh1106-oled
 
 This is for Arduino I just modified it for esp32
